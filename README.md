@@ -2,6 +2,8 @@
 A console-based Car Rental Management System developed in C language, designed specifically for administrators to manage vehicle data efficiently.
 It supports all core CRUD operations, vehicle search, and sorting functionality using a linked list data structure.
 
+
+
 📌 Features
 ➕ Add a new car to the system
 
@@ -21,6 +23,8 @@ It supports all core CRUD operations, vehicle search, and sorting functionality 
 
 🖥️ Built using basic standard libraries – no external dependencies
 
+
+
 🛠️ Technologies & Tools
 
 Language: C
@@ -36,6 +40,8 @@ Libraries Used:
 #include <string.h>
 #include <conio.h>
 
+
+
 📁 Project Structure
 perl
 Copier
@@ -47,12 +53,16 @@ car-rental-system/
 ├── README.md      # Project documentation
 
 
+
+
 ⚙️ How to Run
 1Clone or Download the repository
 
 2Open the project in your preferred C IDE
 
 3Compile and run main.c
+
+
 
 🧠 How It Works
 Data is stored and manipulated using linked lists in memory.
@@ -71,6 +81,8 @@ A menu-driven interface allows the admin to navigate through different features 
 6. Sort Cars
 7. Exit
 Enter your choice:
+
+
 
 🚀 Future Improvements 
 Store data in files for persistence

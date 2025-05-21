@@ -18,7 +18,7 @@ It supports all core CRUD operations, vehicle search, and sorting functionality 
 
 🧮 Sort the car list by various criteria
 
-📂 Data stored in memory using linked lists
+📂 Data stored in memory using linked lists : so basically i create my own database system and schemas using Linked List Data structure 
 
 💡 Simple console UI with interactive menu
 
